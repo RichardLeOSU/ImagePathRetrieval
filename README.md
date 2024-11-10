@@ -140,6 +140,9 @@ Copy code
 }
 ```
 
-### Notes
+## Notes
 - Folder Path: Make sure the folder path exists on your machine, and it has files named with IDs matching the ones you’re requesting.
 - Server Address: If the server address isn’t http://localhost:8080, adjust accordingly in the request URL.
+
+## UML Diagram
+![image](https://github.com/user-attachments/assets/378830a2-a4be-42c1-bb2f-3dc3ce51e93e)
