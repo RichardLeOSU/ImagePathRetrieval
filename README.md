@@ -1,4 +1,4 @@
-# Image Path Resolver Microservice
+# Image Path Retrieval Microservice
 Hi! This microservice was built to support your weather app by providing image file paths based on an imageID and a folderPath. It’s super simple to use: just send a request with an ID and folder, and it’ll respond with the exact path to your image – or let you know if there’s an issue.
 
 ## How to Use
