@@ -130,7 +130,7 @@ Copy code
 }
 ```
 
-#### If the image ID doesn’t exist in that folder:
+#### If the image ID does not exist in that folder:
 
 ```
 json
